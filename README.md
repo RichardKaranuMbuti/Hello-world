@@ -82,9 +82,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[HTML]**
+- **[CSS]**
+- **[VS CODE]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,6 +109,8 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+clone this link to your local repositoty: 
+https://github.com/RichardKaranuMbuti/Hello-microverse
 
 <!--
 Example command:
@@ -120,7 +122,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: https://github.com/RichardKaranuMbuti/Hello-microverse
 
 <!--
 Example commands:
@@ -208,9 +210,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Javascript]**
+- [ ] **[Mobile version]**
+- [ ] **[Tablet version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
