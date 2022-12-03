@@ -4,20 +4,6 @@
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
 
 After you're finished please remove all the comments and instructions!
 -->
@@ -37,19 +23,18 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-Hello-world-project
-    
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
- 
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
- 
-
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-master
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -58,54 +43,86 @@ master
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello world] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-Hello-world-project
-> Set up a "Hello world" repository and make sure to document your work in a professional way, using the right tools and forms.
+> This is a simple HTML and css project that guided me on how to use linters in my HTML and css work
 
-## 🛠 Built With <a name="built-with"></a>
-
-> In this project, you will set up a "Hello world" repository and arrange in a professional way.
+**Hello microverse** is a simple basic HTML project 
 
 ## 🛠 Built With <a name="built-with"></a>
 
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
+> Describe between 1-3 key features of the application.
 
-- [ ] **[.gitignore file]**
-> A . gitignore file is a plain text file where each line contains a pattern for files/directories to ignore
-- [ ] **[linters.yml]**
-> A linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs
+- **[HTML]**
+- **[CSS]**
+- **[VS CODE]**
 
-- **[Linters]**
-> A linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs
-- **[.gitignore]**
->Specifies intentionally untracked files to ignore
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-Hello-world-project
-> Simply by cloning the repository folder in your local machine you can do any modification or explore try this project. Good luck!
 
-> Simply by cloning the repository folder in your local machine you can do any modification or explore this project. Good luck!
-
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites
+
+In order to run this project you need:
+clone this link to your local repositoty: 
+https://github.com/RichardKaranuMbuti/Hello-microverse
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
 ### Setup
 
-Clone this repository to your desired folder:
-git@github.com:RichardKaranuMbuti/Hello-world.git
-
-
-
+Clone this repository to your desired folder: https://github.com/RichardKaranuMbuti/Hello-microverse
 
 <!--
 Example commands:
@@ -116,25 +133,87 @@ Example commands:
 ```
 --->
 
+### Install
 
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+Visual studio code
+Web browser
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-
-> Richard Mbuti
+> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
 - GitHub: [@RichardMbuti](https://github.com/RichardKaranuMbuti)
-- Twitter: [@RichardMbuti](https://twitter.com/Ferbanachi)
-- 
-
-
+- Twitter: [@RichardMbuti](https://twitter.com/RichardKaranuMbuti)
 - LinkedIn: [RichardMbuti](https://www.linkedin.com/in/richard-karanu-94b572241/)
 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Javascript]**
+- [ ] **[Mobile version]**
+- [ ] **[Tablet version]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -161,7 +240,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank all my code reviewers for making my code better
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
