@@ -173,6 +173,8 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
+Visual studio code
+Web browser
 
 <!--
 Example:
@@ -196,11 +198,7 @@ Example:
 - Twitter: [@RichardMbuti](https://twitter.com/RichardKaranuMbuti)
 - LinkedIn: [RichardMbuti](https://www.linkedin.com/in/richard-karanu-94b572241/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,7 +240,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank all my code reviewers for making my code better
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
